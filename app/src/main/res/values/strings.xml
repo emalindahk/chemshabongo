@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chemsha Bongo</string>
+    <string name="start">START</string>
+    <string name="name_placeholder">Name</string>
+    <string name="enter_your_name">Please enter your name</string>
+    <string name="image">image</string>
+    <string name="finish">FINISH</string>
+    <string name="submit">SUBMIT</string>
+</resources>
